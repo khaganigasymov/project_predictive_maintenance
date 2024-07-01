@@ -15,7 +15,9 @@ After developing and implementing this model, maintenance staff receive notifica
 When predictive maintenance is embraced, transformation occurs. 
 
 It requires:
+
 • Using existing sensors and/or instrumenting assets with sensors;
+
 • Capturing a constant stream of data on asset conditions;
 • Analyzing that data in real time;
 • Providing insights and real-time alerting;
